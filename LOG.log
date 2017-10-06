@@ -1,0 +1,34 @@
+[TestNG] Running:
+  C:\Users\IBM_ADMIN\Desktop\Selenium\eclipse\Workspaces\JenkinsTrial\TestNG.xml
+
+This is a test program
+Hello World
+
+===============================================
+Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Running:
+  C:\Users\IBM_ADMIN\Desktop\Selenium\eclipse\Workspaces\JenkinsTrial\TestNG.xml
+
+This is a test program
+Hello World
+
+===============================================
+Suite
+Total tests run: 1, Failures: 1, Skips: 0
+===============================================
+
+[TestNG] Running:
+  C:\Users\IBM_ADMIN\Desktop\Selenium\eclipse\Workspaces\JenkinsTrial\TestNG.xml
+
+This is a test program
+Hello World
+
+===============================================
+Suite
+Total tests run: 1, Failures: 1, Skips: 0
+===============================================
+
+Press any key to continue . . . 
