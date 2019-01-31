@@ -24,6 +24,8 @@ public class Jenkins {
 		
 		System.out.println(title);
 		
+		System.out.println("The Jenkins is tested successfully! All is well.");
+		
 		Assert.assertTrue(title.equals("Hello World..."));
 		
 
