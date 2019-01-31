@@ -24,7 +24,7 @@ public class Jenkins {
 		
 		System.out.println(title);
 		
-		Assert.assertTrue(title.equals("Hello World...."));
+		Assert.assertTrue(title.equals("Hello World..."));
 		
 
 	}
